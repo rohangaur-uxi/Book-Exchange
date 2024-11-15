@@ -149,7 +149,6 @@ npm install
 - Title Search
 - Author Search
 - Genre Filter
-- Location Filter
 
 ## API Routes
 
