@@ -9,8 +9,8 @@ A web application that enables users to exchange books with others. List your bo
 - MongoDB
 - npm
 
-## Clone the git repo to your IDE using this command in the terminal window : git clone <link to the git url>
-## For VS Code use Clone Git Repository to clone the repository
+### Clone the git repo to your IDE using this command in the terminal window : git clone 
+### For VS Code use Clone Git Repository to clone the repository
 
 ## Commands in order to be run in different terminal window
 
